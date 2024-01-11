@@ -1,6 +1,7 @@
 ## Prazer, Junior Teixeira! :computer_mouse:💻
 
-- :man_student: **Studying:** Science and Technology at [UFRN](https://www.ufrn.br/);
+- :man_student: **graduated:** Science and Technology by [UFRN](https://www.ufrn.br/);
+- :man_student: **Studying** Telecomunication engeneering at [UFRN](https://www.ufrn.br/);
 - 🌱 **Technologies main of work and study:** JavaScript, ReactJS, TypeScript, Node.js and information security;
 
 <div>
