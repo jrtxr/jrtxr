@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Teixeira Junior
 
-🎓 **Bacharel em Ciências e Tecnologias** [UFRN](https://www.ufrn.br/);
+🎓 **Bacharel em Ciências e Tecnologias [UFRN](https://www.ufrn.br/);**
 🛡️ **Pós-graduado em Cibersegurança**
 💻 **Desenvolvedor de Software**
 🔐 **Estudante de Cybersecurity**
