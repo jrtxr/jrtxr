@@ -56,11 +56,12 @@ Atualmente concentro meus estudos em:
 
 ## 🌎 Onde me encontrar
 
-* 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jrtxr)
-* 📧 Email: [seuemail@email.com](mailto:gatuno.configure594@passinbox.com)
-* [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c7d14-00c5-7373-843c-1eb7e031c82f)
-* 🌐 Portfólio: https://gatuno.com.br
+## 🌐 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jrtxr)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c7d14-00c5-7373-843c-1eb7e031c82f)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gatuno.com.br)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gatuno.configure594@passinbox.com)
 ---
 
 > *"The quieter you become, the more you are able to hear."* 
