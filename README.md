@@ -58,9 +58,9 @@ Atualmente concentro meus estudos em:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c7d14-00c5-7373-843c-1eb7e031c82f)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gatuno.com.br)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gatuno.configure594@passinbox.com)
-[![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gatuno.com.br)
 
 ---
 
