@@ -16,6 +16,7 @@ Atualmente concentro meus estudos em:
 * 🔒 Segurança da Informação
 * 🛡️ Pentest e Ethical Hacking
 * 🐧 Linux e Infraestrutura
+* 💻 Desenvolvimento seguro
 
 ---
 
