@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Teixeira Junior
 
-🎓 **Bacharel em Ciências e Tecnologias [UFRN](https://www.ufrn.br/);**
-🛡️ **Pós-graduado em Cibersegurança**
-💻 **Desenvolvedor de Software**
+🎓 **Bacharel em Ciências e Tecnologias [UFRN](https://www.ufrn.br/) | **
+🛡️ **Pós-graduado em Cibersegurança |**
+💻 **Desenvolvedor de Software |**
 🔐 **Estudante de Cybersecurity**
 
 ---
@@ -46,15 +46,6 @@ Atualmente concentro meus estudos em:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
 
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrtxr\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrtxr\&layout=compact\&theme=tokyonight\&hide_border=true)
-
 ---
 
 ## 🔥 Contribuições
@@ -67,6 +58,7 @@ Atualmente concentro meus estudos em:
 
 * 💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jrtxr)
 * 📧 Email: [seuemail@email.com](mailto:gatuno.configure594@passinbox.com)
+* [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c7d14-00c5-7373-843c-1eb7e031c82f)
 * 🌐 Portfólio: https://gatuno.com.br
 
 ---
