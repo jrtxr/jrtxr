@@ -1,14 +1,16 @@
-# Junior Teixeira
+# Teixeira Junior
 
 **Cybersecurity | Penetration Testing | Linux | Software Development**
 
-- Bachelor of Science and Technology — UFRN
-- Postgraduate in Cybersecurity
-- Software Developer
+## Education & Certifications
 
-Currently focused on **Cybersecurity and Penetration Testing**, with an emphasis on Linux, networking, web security and privilege escalation.
+**Postgraduate in Cybersecurity** — Completed
+**Bachelor's Degree in Science and Technology** — UFRN
+**CompTIA Security+** — In Progress
 
 ## Current Focus
+
+Currently focused on **Cybersecurity and Penetration Testing**, with an emphasis on:
 
 * Penetration Testing
 * Linux Security
@@ -16,8 +18,6 @@ Currently focused on **Cybersecurity and Penetration Testing**, with an emphasis
 * Privilege Escalation
 * Network Security
 * Secure Software Development
-
-Currently preparing for the **CompTIA Security+** certification.
 
 ## Hands-on Practice
 
@@ -47,19 +47,11 @@ Security tools and scripts developed to support my studies and automation.
 
 **Security:** Linux · Kali Linux · Nmap · Burp Suite · Wireshark
 
-**Programming:** Python · JavaScript · C · C++
+**Programming:** Python · JavaScript · TypeScript
 
 **Development:** Node.js · React · Docker
 
-**Databases:** PostgreSQL · MySQL · MongoDB
-
-## Education & Certification
-
-**Postgraduate in Cybersecurity**
-
-**Bachelor of Science and Technology — UFRN**
-
-**CompTIA Security+ — In Progress**
+**Databases:** PostgreSQL · MySQL
 
 ## Connect
 
