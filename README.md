@@ -2,9 +2,9 @@
 
 **Cybersecurity | Penetration Testing | Linux | Software Development**
 
-Bachelor of Science and Technology — UFRN
-Postgraduate in Cybersecurity
-Software Developer
+- Bachelor of Science and Technology — UFRN
+- Postgraduate in Cybersecurity
+- Software Developer
 
 Currently focused on **Cybersecurity and Penetration Testing**, with an emphasis on Linux, networking, web security and privilege escalation.
 
