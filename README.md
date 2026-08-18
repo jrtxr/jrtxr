@@ -1,58 +1,58 @@
 # Teixeira Junior
 
-**Cybersecurity | Penetration Testing | Linux | Software Development**
+**Cibersegurança | Pentest | Linux | Desenvolvimento de Software**
 
-## Education & Certifications
+## Formação e Certificações
 
-**Postgraduate in Cybersecurity** — Completed
-**Bachelor's Degree in Science and Technology** — UFRN
-**CompTIA Security+** — In Progress
+- **Bacharelado em Ciências e Tecnologia** — UFRN
+- **Pós-graduação em Cibersegurança** — Concluída
+- **CompTIA Security+** — Em preparação
 
-## Current Focus
+## Foco Atual
 
-Currently focused on **Cybersecurity and Penetration Testing**, with an emphasis on:
+Atualmente concentro meus estudos em **Cibersegurança**, com foco em:
 
-* Penetration Testing
-* Linux Security
-* Web Application Security
-* Privilege Escalation
-* Network Security
-* Secure Software Development
+* Pentest
+* Segurança Linux
+* SOC
+* Segurança de aplicações web
+* Segurança de redes
+* Desenvolvimento seguro
 
-## Hands-on Practice
+## Prática
 
-My primary platform for practical cybersecurity training is **Hack The Box**.
+Minha principal plataforma de estudos práticos em cibersegurança é o **Hack The Box**.
 
-I use hands-on labs and controlled environments to study reconnaissance, enumeration, exploitation and post-exploitation.
+Utilizo ambientes controlados para praticar e documentar processos de reconhecimento, enumeração, exploração e pós-exploração.
 
-### Hack The Box Writeups
+### Hack The Box — Writeups
 
-Technical documentation of machines and challenges solved during my studies.
+Documentação técnica das máquinas e desafios resolvidos durante meus estudos.
 
 → [htb-writeups](https://github.com/jrtxr/htb-writeups)
 
 ### Security Labs
 
-Hands-on labs, experiments and notes created while studying cybersecurity.
+Laboratórios, experimentos e anotações desenvolvidos durante meus estudos de cibersegurança.
 
 → [security-labs](https://github.com/jrtxr/security-labs)
 
 ### Security Tools
 
-Security tools and scripts developed to support my studies and automation.
+Ferramentas e scripts desenvolvidos para apoiar meus estudos e automatizar tarefas relacionadas à segurança.
 
 → [security-tools](https://github.com/jrtxr/security-tools)
 
-## Technical Skills
+## Tecnologias
 
-**Security:** Linux · Kali Linux · Nmap · Burp Suite · Wireshark
+**Cibersegurança:** Linux · Kali Linux · Nmap · Burp Suite · Wireshark
 
-**Programming:** Python · JavaScript · TypeScript
+**Linguagens:** Python · JavaScript · TypeScript
 
-**Development:** Node.js · React · Docker
+**Desenvolvimento:** Node.js · React · Docker
 
-**Databases:** PostgreSQL · MySQL
+**Banco de Dados:** PostgreSQL · MySQL
 
-## Connect
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/jrtxr/) · [Hack The Box](https://profile.hackthebox.com/profile/019c7d14-00c5-7373-843c-1eb7e031c82f)
