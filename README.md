@@ -1,67 +1,66 @@
-# 👋 Olá, eu sou Teixeira Junior
+# Junior Teixeira
 
-🎓 **Bacharel em Ciências e Tecnologias [UFRN](https://www.ufrn.br/) | **
-🛡️ **Pós-graduado em Cibersegurança |**
-💻 **Desenvolvedor de Software |**
-🔐 **Estudante de Cybersecurity**
+**Cybersecurity | Penetration Testing | Linux | Software Development**
 
----
+Bachelor of Science and Technology — UFRN
+Postgraduate in Cybersecurity
+Software Developer
 
-## 🚀 Sobre mim
+Currently focused on **Cybersecurity and Penetration Testing**, with an emphasis on Linux, networking, web security and privilege escalation.
 
-Formado em Ciências e Tecnologias, pós-graduado em Cibersegurança e desenvolvedor. Atualmente estudo Cybersecurity e utilizo este espaço para compartilhar projetos, laboratórios e experimentos relacionados à segurança da informação.
+## Current Focus
 
-Atualmente concentro meus estudos em:
+* Penetration Testing
+* Linux Security
+* Web Application Security
+* Privilege Escalation
+* Network Security
+* Secure Software Development
 
-* 🔒 Segurança da Informação
-* 🛡️ Pentest e Ethical Hacking
-* 🐧 Linux e Infraestrutura
-* 💻 Desenvolvimento seguro
+Currently preparing for the **CompTIA Security+** certification.
 
----
+## Hands-on Practice
 
-## 💻 Tecnologias
+My primary platform for practical cybersecurity training is **Hack The Box**.
 
-### Cybersecurity
+I use hands-on labs and controlled environments to study reconnaissance, enumeration, exploitation and post-exploitation.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+### Hack The Box Writeups
 
-### Linguagens
+Technical documentation of machines and challenges solved during my studies.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+→ [htb-writeups](https://github.com/jrtxr/htb-writeups)
 
-### Desenvolvimento
+### Security Labs
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+Hands-on labs, experiments and notes created while studying cybersecurity.
 
-### Banco de Dados
+→ [security-labs](https://github.com/jrtxr/security-labs)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql)
+### Security Tools
 
----
+Security tools and scripts developed to support my studies and automation.
 
-## 🔥 Contribuições
+→ [security-tools](https://github.com/jrtxr/security-tools)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jrtxr\&theme=tokyonight\&hide_border=true)
+## Technical Skills
 
----
+**Security:** Linux · Kali Linux · Nmap · Burp Suite · Wireshark
 
-## 🌎 Onde me encontrar
+**Programming:** Python · JavaScript · C · C++
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019c7d14-00c5-7373-843c-1eb7e031c82f)
+**Development:** Node.js · React · Docker
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gatuno.com.br)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gatuno.configure594@passinbox.com)
+**Databases:** PostgreSQL · MySQL · MongoDB
 
----
+## Education & Certification
 
-> *"The quieter you become, the more you are able to hear."* 
+**Postgraduate in Cybersecurity**
+
+**Bachelor of Science and Technology — UFRN**
+
+**CompTIA Security+ — In Progress**
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jrtxr/) · [Hack The Box](https://profile.hackthebox.com/profile/019c7d14-00c5-7373-843c-1eb7e031c82f)
