@@ -2,7 +2,7 @@
 
 ## Formação e Certificações
 
-- **Bacharelado em Ciências e Tecnologia** — UFRN
+- **Bacharelado em Ciências e Tecnologia (UFRN)** — Concluída
 - **Pós-graduação em Cibersegurança** — Concluída
 - **CompTIA Security+** — Em preparação
 
@@ -10,10 +10,10 @@
 
 Atualmente concentro meus estudos em **Cibersegurança**, com foco em:
 
-* Pentest
 * Segurança Linux
-* SOC
 * Segurança de aplicações web
+* SOC
+* Pentest
 * Segurança de redes
 * Desenvolvimento seguro
 
@@ -23,11 +23,11 @@ Minha principal plataforma de estudos práticos em cibersegurança é o **Hack T
 
 Utilizo ambientes controlados para praticar e documentar processos de reconhecimento, enumeração, exploração e pós-exploração.
 
-### Hack The Box — Writeups
+### Hack The Box
 
 Documentação técnica das máquinas e desafios resolvidos durante meus estudos.
 
-→ [htb-writeups](https://github.com/jrtxr/htb-writeups)
+→ [htb](https://github.com/jrtxr/htb)
 
 ### Security Labs
 
