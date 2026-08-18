@@ -1,7 +1,5 @@
 # Teixeira Junior
 
-**Cibersegurança | Pentest | Linux | Desenvolvimento de Software**
-
 ## Formação e Certificações
 
 - **Bacharelado em Ciências e Tecnologia** — UFRN
