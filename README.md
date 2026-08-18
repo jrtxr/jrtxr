@@ -17,7 +17,7 @@ Atualmente concentro meus estudos em **Cibersegurança**, com foco em:
 * Segurança de redes
 * Desenvolvimento seguro
 
-## Prática
+## Estudos e Práticas
 
 Minha principal plataforma de estudos práticos em cibersegurança é o **Hack The Box**.
 
